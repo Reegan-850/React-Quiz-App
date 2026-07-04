@@ -78,3 +78,26 @@ h1 {
 .result-container p {
   font-size: 18px;
 }
+
+.welcome-container input {
+  width: 80%;
+  padding: 12px;
+  margin: 20px 0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+.welcome-container button {
+  padding: 12px 20px;
+  border: none;
+  background: #646cff;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.welcome-container button:disabled {
+  background: gray;
+  cursor: not-allowed;
+}
