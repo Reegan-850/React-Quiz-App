@@ -1,27 +1,43 @@
-React Quiz App
+# 🎯 QuizMaster - React Quiz App
 
-A simple and interactive Quiz App built using React that allows users to test their knowledge by answering multiple-choice questions and viewing their final score.
+An interactive and responsive Quiz Application built using React and Vite.
 
-Features
+## ✨ Features
 
-* Enter player name before starting the quiz
-* Answer 5 multiple-choice questions
-* 15-second timer for each question
-* Progress bar to track quiz completion
-* Correct and incorrect answer indicators
-* Display final score and performance message
-* Dark mode toggle
-* Responsive UI
+* Welcome screen with player name input
+* 5 Multiple Choice Questions
+* 15-Second Timer for each question
+* Progress Bar
+* Correct and Incorrect Answer Indicators
+* Final Score Calculation
+* Personalized Result Screen
+* Play Again Functionality
+* Dark Mode Toggle
+* Responsive User Interface
 
-Technologies Used
+## 🛠️ Technologies Used
 
 * React
-* JavaScript
-* CSS
+* JavaScript (ES6+)
+* CSS3
 * Vite
 
-Live Demo
-react-quiz-app-reegan.netlify.app
+## 📚 Concepts Practiced
 
-Author
-Reegan R
+* React Components
+* useState Hook
+* useEffect Hook
+* Props
+* Event Handling
+* Conditional Rendering
+* Controlled Forms
+* Dynamic Styling
+* State Management
+
+## 🌐 Live Demo
+
+https://react-quiz-app-reegan.netlify.app
+
+## 👨‍💻 Author
+
+Reegan
